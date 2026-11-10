@@ -4,8 +4,8 @@
 
 | Thông tin          | Nội dung           |
 | ------------------ | ------------------ |
-| Họ và tên          | Ngô Lam Khuê       |
-| Mã sinh viên       | 24810320245        |
+| Họ và tên          | Nguyễn Minh Đức    |
+| Mã sinh viên       | 24810320326        |
 | Lớp / Khóa         | D19QTANM1          |
 | Môn học            | Lập trình .NET     |
 
